@@ -31,12 +31,5 @@ foreach($result['rates'] as $key=>$val){
     exit();
 }
     
+include "footer.php";
     ?>
-
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-</body>
-</html>

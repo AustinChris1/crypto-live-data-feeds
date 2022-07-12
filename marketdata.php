@@ -20,13 +20,7 @@ $result =json_decode($result,true);
 
         }
 exit();
-    
-    ?>
+ 
+include "footer.php";
 
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-</body>
-</html>
+    ?>
